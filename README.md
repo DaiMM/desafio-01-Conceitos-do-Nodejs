@@ -1,4 +1,4 @@
-# Desafio 01 - Trilha NodeJs Rocketseat
+# Desafio 01 - Conceitos do Node.js
 [x] Users should be able to create a new user</br>
 [x] Users should not be able to create a new user when username already exists</br>
 [x] Todos should be able to list all user's todo</br>
